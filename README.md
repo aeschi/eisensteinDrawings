@@ -9,3 +9,5 @@
 > There are as it were two times and two spaces: one of history and the calendar, the other incalculable and musical. Great movements arise out of the spirit of music, and are penetrated by it as they act....
 
 Eisenstein on Paper p. 166/167
+
+<img src="./summary.jpg">
