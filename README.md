@@ -19,6 +19,8 @@ First tests in oF and Photoshop:
 
 ### oF
 with ofxCV edge filters
+
+
 <img src="./tests/oF/ofxCV_of_edge_1.png" width="49%"><img src="./tests/oF/ofxCV_of_edge_2.png" width="49%">
 
 ### Photoshop
