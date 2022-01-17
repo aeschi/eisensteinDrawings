@@ -11,3 +11,15 @@
 Eisenstein on Paper p. 166/167
 
 <img src="./summary.jpg">
+
+## Documentation
+
+First tests in oF and Photoshop:
+### oF
+with ofxCV edge filters
+<img src="./tests/oF/ofxCV_of_edge_1.png" width="49%"><img src="./tests/oF/ofxCV_of_edge_2.png" width="49%">
+
+### Photoshop
+Trying out some textures and filters
+<img src="./tests/psd/cow_on_paper.png" width="49%"><img src="./tests/psd/sky_on_paper.png" width="49%">
+<img src="./tests/psd/women_on_paper.png" width="49%"><img src="./tests/psd/women.png" width="49%">
